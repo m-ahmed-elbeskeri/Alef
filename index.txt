@@ -337,11 +337,8 @@ Twitter
 Youtube
 Google Map
 
-&copy; 2022 Alef. All Rights Reserved | Crafted by
+&copy; 2022 Alef. All Rights Reserved 
 
-https://github.com/codewithsadee
-
-codewithsadee
 
 
 
