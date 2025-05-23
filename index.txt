@@ -5,7 +5,7 @@ Alef - Amazing & Delicious Food
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-Restaurant St, Delicious City, London 9578, UK
+Restaurant St, Delicious City, Manchester 9578, UK
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
 Daily : 8.00 am to 10.00 pm
@@ -34,7 +34,7 @@ Contact
 Visit Us
 
 Restaurant St, Delicious City,
-London 9578, UK
+Manchester 9578, UK
 
 Open: 9.30 am - 2.30pm
 
@@ -248,7 +248,7 @@ Booking Request
 Location
 
 Restaurant St, Delicious City,
-London 9578, UK
+Manchester 9578, UK
 
 Lunch Time
 
@@ -307,7 +307,7 @@ View Our Blog
 
 alt = Alef home
 
-Restaurant St, Delicious City, London 9578, UK
+Restaurant St, Delicious City, Manchester 9578, UK
 
 booking@Alef.com
 
@@ -435,7 +435,7 @@ Monday to Sunday
 5.30 pm - 11.30 pm
 
 Contact Us
-Restaurant St, Delicious City, London 9578, UK
+Restaurant St, Delicious City, Manchester 9578, UK
 
 +88-123-123456
 reservation@restro.com
