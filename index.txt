@@ -5,16 +5,16 @@ This is a Restaurant html template made by Mohamed Ahmed
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-Restaurant St, Delicious City, Manchester 9578, UK
+Restaurant Street, Gastronomy District, Manchester 9578, UK
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
-Daily : 8.00 am to 10.00 pm
+Open Daily: 8:00 AM to 10:00 PM
 
 <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
-+1 123 456 7890
++44 123 456 7890
 
 <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
-booking@restaurant.com
+reservations@alef.com
 
 
 
